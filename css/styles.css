@@ -1,0 +1,115 @@
+/*1st-section*/
+.section-1st {
+    width: 1300px;
+    margin: 83px auto 102px auto;
+
+}
+.section-1st-h2 {
+    font-size: 14px;
+    color: #5863F8;
+    width: 92px;
+    height: 20px;
+    font-weight: bold;
+    font-family: 'Cinzel';
+    text-transform: uppercase;
+
+}
+.section-1st-h3 {
+    font-size: 42px;
+    font-family: 'Asap', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    width: 498px;
+    height: 115px;
+
+
+}
+.left-div {
+    display: inline-block;
+    width: 536px;
+    height: 190px;
+    margin-right: 16px;
+    background-color: #F8F8F8;
+}
+.image1 {
+	width: 168px;
+    height: 190px;
+    vertical-align: top;
+}
+
+.food-description {
+    display: inline-block;
+    vertical-align: top;
+    width: 368px;
+    
+}
+.food-description-h4 {
+    font-family: 'Cinzel';
+    font-size: 14px;
+    font-weight: 700;
+    color: #5863F8;
+    margin: 37px 0px 0px 16px;
+    text-transform: uppercase;
+   
+}
+.food-description-h5 {
+    font-weight: 600;
+    font-size: 18px;
+    margin-left: 16px;
+    line-height: 27px;
+    
+
+}
+.food-description-p {
+    font-weight: 500;
+    font-size: 14px;
+    color: #B1B1B1;
+    margin-top: 10px;
+    margin-left: 16px;
+    width: 260px;
+    
+}
+.right-div {
+    display: inline-block;
+    background-color: #BE2B2B;
+    width: 536px;
+    height: 190px;
+
+}
+/*2nd section*/
+.section-2nd {
+    width: 1300px;
+    margin: 0 auto 154px auto;
+}
+.div1 {
+    width: 352px;
+    height: 360px;
+}
+.image3 {
+    width: 352px;
+    height: 212px;
+
+}
+.blog-description {
+    display: inline-block;
+    margin-right: 16px;
+}
+.blog-description-h4 {
+    font-size: 14px;
+    color: #5863F8;
+    font-weight: 800;
+    text-align: center;
+    margin: 23px 0px 5px 0px;
+    font-family: "BPG Banner Caps", sans-serif;
+}
+.blog-description-h5 {
+     font-size: 18px;
+    font-weight: 700;
+    text-align: center;
+    margin-bottom: 10px;
+    font-family: 'BPG Glaho';
+}
+.blog-description-p {
+     font-size: 14px;
+    color: #B1B1B1;
+    text-align: center;
+}
